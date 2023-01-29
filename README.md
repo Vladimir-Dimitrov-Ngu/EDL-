@@ -1,2 +1,2 @@
-# EDL-
+# EDL
 Efficient Deep Learning Systems
