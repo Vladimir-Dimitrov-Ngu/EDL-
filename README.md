@@ -5,7 +5,7 @@ Efficient Deep Learning Systems
 
 2. At the 2nd seminar, we decided to create **GloVe: Global Vectors for Word Representation**
 
-**GloVE**
+**GloVe brief**
 
 | nearest neighbors of <br/> <em>frog</em> | Litoria             |  Leptodactylidae | Rana | Eleutherodactylus |
 | --- | ------------------------------- | ------------------- | ---------------- | ------------------- |
