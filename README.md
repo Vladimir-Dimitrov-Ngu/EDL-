@@ -3,7 +3,7 @@ Efficient Deep Learning Systems
 
 1. At the 1st seminar we talked about the theory of **multiprocessing**
 
-2. At the 2nd seminar, we decided to create **GloVe: Global Vectors for Word Representation**
+2. At the 2nd seminar, we decided to create ** Parallel GloVe: Global Vectors for Word Representation**
 
 **GloVe brief**
 
