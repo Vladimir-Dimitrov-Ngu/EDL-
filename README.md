@@ -5,6 +5,8 @@ Efficient Deep Learning Systems
 
 2. At the 2nd seminar, we decided to create ** Parallel GloVe: Global Vectors for Word Representation**
 
+Dataset : wikitext ( __2 million words__)
+
 **GloVe brief**
 
 | nearest neighbors of <br/> <em>frog</em> | Litoria             |  Leptodactylidae | Rana | Eleutherodactylus |
