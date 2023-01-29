@@ -7,7 +7,7 @@ Efficient Deep Learning Systems
 
 Dataset : wikitext ( __2 million words__)
 
-Example:  It met with positive sales in Japan , and was praised by both Japanese and western critics . After release , it received downloadable content
+Example:  It met with positive sales in Japan , and was praised by both Japanese and western critics.
 
 **GloVe brief**
 
